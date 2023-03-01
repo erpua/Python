@@ -1,1 +1,4 @@
 # Python
+
+Installing:
+- python --version
