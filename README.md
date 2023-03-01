@@ -1,4 +1,9 @@
 # Python
 
 Installing:
-- python --version
+- version check => python --version
+
+---
+Terminal:
+- python => runs python interpreter
+- exit() => exits
