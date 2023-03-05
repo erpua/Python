@@ -13,3 +13,5 @@ Terminal:
 --- Tips
 -  desable parameter hints in VSCode settings 
 - Ctrl + Shift + K => removes current line where is cursor
+- pwd (Print Working Directory) => prints the route
+- Cntl + J => open terminal
