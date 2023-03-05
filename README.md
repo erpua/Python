@@ -9,3 +9,7 @@ Installing:
 Terminal:
 - python => runs python interpreter
 - exit() => exits
+
+--- Tips
+-  desable parameter hints in VSCode settings 
+- Ctrl + Shift + K => removes current line where is cursor
