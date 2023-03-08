@@ -12,5 +12,5 @@ print(5 + 5)
 
 input('Enter your name: ')
 
-print(def my_fn():
-      print('Ievgen'))  # Error
+""" print(def my_fn():
+      print('Ievgen')) """  # Error
