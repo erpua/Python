@@ -12,7 +12,7 @@ Terminal:
 
 --- Tips
 -  desable parameter hints in VSCode settings 
-- Ctrl + Shift + K => removes current line where is cursor
+- Ctrl + Shift + K => deletes current line of code
 - pwd (Print Working Directory) => prints the route
 - Ctrl + J => open terminal
 - Shift + Alt + bottom arrow => current line code copy
