@@ -22,11 +22,15 @@ print_name('Ievgen')
 # TypeError: 'int' object is not callable
 
 # Objects: what it consists?
+""" 
 name
 comments
-new_photos
+new_photos 
+"""
 
 # Functions: what it does?
+"""
 get_data
 merge_names
-create_request
+create_request 
+"""
