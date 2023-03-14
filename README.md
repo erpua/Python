@@ -8,7 +8,7 @@ Installing:
 ---
 Terminal:
 - python => runs python interpreter
-- exit() => exits
+- exit() => coming out from python environment
 
 --- Tips
 -  desable parameter hints in VSCode settings 

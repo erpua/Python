@@ -41,6 +41,9 @@ power = 3
 print(pow(base, power))
 # 5**3 => 125
 
+print('type(pow(base, power)): ', type(pow(base, power)))
+# <class 'int'>
+
 one_million = 1_000_000
 print(one_million)
 # 1000000
