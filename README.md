@@ -21,3 +21,4 @@ Terminal:
 - CTRL + Shift + P then type format, then choose Format Document With...,
 then press Enter, then choose Python, then install autopep8 ( if not appearing => pip install autopep8 command ).
 - CTRL + , => calls settings. Then format on save.
+- if we want to chagne all variables => choose one, right click => change all occurrences

@@ -13,7 +13,7 @@ print('int_num.__add__(float_num): ', int_num.__add__(float_num))
 # int_num.__add__(float_num):  NotImplemented
 # IF python sees NotImplemented => it calls .__radd__() for float class
 print('float_num.__radd__(int_num): ', float_num.__radd__(int_num))
-# float_num.__radd__(int_num):  9.5
+# float_num.__radd__(int_num):  9.5 // radd - right add
 
 
 print('float_num + int_num: ', float_num + int_num)
