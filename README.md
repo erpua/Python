@@ -11,7 +11,8 @@ Terminal:
 - exit() => coming out from python environment
 
 --- Tips
--  desable parameter hints in VSCode settings 
+- CTRL + "/" => multiple line comments
+- desable parameter hints in VSCode settings 
 - CTRL + Shift + K => deletes current line of code
 - pwd (Print Working Directory) => prints the route
 - CTRL + J => open terminal
